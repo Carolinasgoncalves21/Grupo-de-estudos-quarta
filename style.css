@@ -1,14 +1,37 @@
 body {
-    background-color: #fefdfe; text-align: justify;
+    background-color: #fefdfe;
+    text-align: justify;
+    color: rgb(223,185,216)
 }
 
 h1 {
-    color: rgb(223,185,216); text-align: center;
+    color: #a753ba; 
+    text-align: center;
 }
 
 h2 {color: blueviolet; text-align: center;
+    border: dotted 5px yellow;
+    padding: 10px;
+    margin: 30px;
+}
+
+h3 {
+    color: violet;
+    text-align: center;
+    border: dashed #ecdbec;
 }
 
 p {
     text-align: 45px; color: blue;
+}
+
+#imagem1 {
+    border: solid red;
+    width: 200px;
+    height: 200px;
+}
+
+#imagem2{
+    border: double 5px violet;
+    margin-left: 25%;
 }
