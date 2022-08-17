@@ -21,6 +21,10 @@ h3 {
     border: dashed #ecdbec;
 }
 
+h4 {
+    background-color: rebeccapurple;
+}
+
 p {
     text-align: 45px; color: blue;
 }
@@ -34,4 +38,24 @@ p {
 #imagem2{
     border: double 5px violet;
     margin-left: 25%;
+}
+
+.imagem3{
+    width: 20%;
+    height: 30%;
+}
+
+.itens{
+    background-color: black;
+    }
+
+ li::marker{
+    content: "\FF04";
+    color: yellow;
+ }   
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin: 120px;
 }
