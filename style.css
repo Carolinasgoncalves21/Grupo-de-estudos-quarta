@@ -46,7 +46,7 @@ p {
 }
 
 .itens{
-    background-color: black;
+    background-color: rgba(241, 65, 65, 0.845);
     }
 
  li::marker{
