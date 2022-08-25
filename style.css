@@ -6,7 +6,8 @@ body {
 
 h1 {
     color: #a753ba; 
-    text-align: center;
+    text-align: center;          
+    }
 }
 
 h2 {color: blueviolet; text-align: center;
@@ -46,7 +47,7 @@ p {
 }
 
 .itens{
-    background-color: rgba(241, 65, 65, 0.845);
+    background-color: black;
     }
 
  li::marker{
